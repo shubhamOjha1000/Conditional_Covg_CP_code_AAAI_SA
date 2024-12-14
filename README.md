@@ -1,6 +1,8 @@
-# Beyond Marginal Coverage in Conformal Prediction for Pathological Image Classification
+# Ensuring Class-Conditional Coverage for Pathological Workflows
 
-- #### Authors</ins>: **Siddharth Narendra,  Shubham Ojha, Aditya Narendra, Abhay Kshirsaga, Abhishek Mallick**
+- #### Authors</ins>: Siddharth Narendra,  Shubham Ojha, Aditya Narendra, Abhay Kshirsagar & Abhishek Mallick
+- #### Venue & Year</ins>: AAAI Conference on Artificial Intelligence, 2025
+
 
 ### Abstract
 
